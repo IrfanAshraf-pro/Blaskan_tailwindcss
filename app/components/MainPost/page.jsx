@@ -1,5 +1,5 @@
 import React from 'react'
-import { Author, PostBottom } from '../PostComponents'
+import { Author } from '../PostComponents'
 import PostBottom from '../PostComponents/Bottom/page'
 import Image from 'next/image'
 import Banner from '../../assests/beach.jpg'
