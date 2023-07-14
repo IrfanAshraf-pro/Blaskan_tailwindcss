@@ -1,0 +1,5 @@
+export { default as Searchbar } from './Searchbar/page'
+export { default as AboutAuthor } from './Author/page.jsx'
+export { default as RecentPosts } from './Recent/page.jsx'
+export { default as Categories } from './Categories/page.jsx'
+export { default as Tags } from './Tags/page'
