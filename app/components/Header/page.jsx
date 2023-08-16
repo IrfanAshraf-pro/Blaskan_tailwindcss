@@ -4,7 +4,7 @@ import HImage from '../../assests/custom-header.jpg'
 
 const Header = () => {
     return (
-        <div className='max-w-6xl mx-auto'>
+        <div className='max-w-screen-xl mx-auto'>
             <div className="">
                 <Image src={HImage} alt='Header imge ' className='header-image md:header-image-lg object-cover ' />
             </div>
